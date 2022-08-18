@@ -1,3 +1,3 @@
 # EddoBot-1.0
-Trading bot made with python.  
-DIAMOND HANDS!!
+Trading bot made with Python using IEX Cloud API.  
+DIAMOND HANDS!!  
